@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eyobed Birhanu
+# 👋 Hi, I'm Eyobed Birhanu Paulos
 
 ### 🚀 Full-Stack Developer | AI Researcher | Network & Security Engineer
 
