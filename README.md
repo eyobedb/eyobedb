@@ -153,27 +153,6 @@ I am passionate about exploring the intersection of:
 🎓 **Bachelor's Degree in Information Technology**
 
 ---
-## Publications
-2022 
-**Detection and Classification of coffee leaf disease using deep learning 
-Paulos, E. B., & Woldeyohannis, M. M. (2022, November). Detection and Classification of Coffee Leaf Disease using
-Deep Learning. In 2022 International Conference on Information and Communication Technology for Development for
-Africa (ICT4DA) 
-
-2024 
-**Extractive Text Summarization for Wolaytta Language Using Recurrent Neural Network 
-Paulos, E.B., Woldeyohannis, M.M., Dana, B.S., Yesuf, S.M. and Yigezu, M.G., 2024, November. Extractive Text
-Summarization for Wolaytta Language Using Recurrent Neural Network. 
-Journal Name: International Conference on Information and Communication Technology for Development for Africa | Volume,
-Issue and Pages: (pp. 217-222). | Publisher: IEEE. 
-
-2024 
-**Design and Develop Automatic Parts of Speech Tagger for Siltigna Language 
-Dana, B.S., Woldeyohannis, M.M., Yesuf, S.M., Paulos, E.B. and Yigezu, M.G., 2024, November. Design and Develop
-Automatic Parts of Speech Tagger for Siltigna Language. 
-Journal Name: International Conference on Information and Communication Technology for Development for Africa | Volume,
-Issue and Pages: (pp. 223-228) | Publisher: IEEE 
-
 
 ## 🤝 Let's Connect
 
