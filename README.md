@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | AI Researcher | Network & Security Engineer
 
-I am an **Information Technology professional from Ethiopia** with Bachelor's and Master's degrees in Information Technology and over **8 years of experience** across **Full-Stack Development, Artificial Intelligence, Enterprise Networking, Cybersecurity, and Academic Research**.
+I am an **Information Technology professional from Ethiopia** with Bachelor's and Master's degrees in Information Technology and over **8 years of experience** across **Full-Stack Development, Artificial Intelligence, NLP, Computer vision, Enterprise Networking, Cybersecurity, and Academic Research**.
 
 I enjoy building **intelligent, scalable, and secure technology solutions** by combining software engineering, AI, and enterprise infrastructure.
 
